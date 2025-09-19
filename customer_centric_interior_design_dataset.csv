@@ -1,0 +1,101 @@
+Customer_ID,Age,Gender,Preferred_Style,Color_Palette,Room_Type,Budget_Range,Satisfaction_Rating,Feedback_Theme,Clicks_On_Designs
+C001,25,Non-binary,Traditional,Earthy,Bathroom,High,3,Minimalist,20
+C002,45,Non-binary,Traditional,Warm,Home Office,Low,5,Aesthetics,9
+C003,57,Female,Industrial,Earthy,Kitchen,Mid,2,Aesthetics,26
+C004,30,Male,Minimalist,Earthy,Living Room,Mid,5,Comfort,8
+C005,24,Female,Modern,Neutral,Living Room,High,2,Spacious,10
+C006,47,Non-binary,Modern,Earthy,Bedroom,Low,2,Comfort,22
+C007,28,Non-binary,Scandinavian,Neutral,Bedroom,Mid,3,Aesthetics,23
+C008,49,Female,Traditional,Neutral,Living Room,Mid,1,Spacious,30
+C009,32,Male,Industrial,Earthy,Living Room,High,5,Minimalist,12
+C010,42,Female,Bohemian,Cool,Bedroom,High,2,Comfort,27
+C011,44,Male,Minimalist,Earthy,Living Room,Mid,1,Functionality,15
+C012,29,Female,Minimalist,Earthy,Bedroom,High,4,Comfort,6
+C013,54,Female,Traditional,Cool,Kitchen,Low,2,Eco-friendly,26
+C014,35,Male,Minimalist,Earthy,Home Office,Low,5,Aesthetics,10
+C015,58,Female,Modern,Vibrant,Home Office,Mid,5,Aesthetics,18
+C016,26,Female,Bohemian,Neutral,Bathroom,Mid,1,Minimalist,19
+C017,50,Female,Industrial,Cool,Bathroom,High,4,Eco-friendly,14
+C018,39,Male,Traditional,Earthy,Bedroom,High,1,Aesthetics,27
+C019,53,Male,Scandinavian,Warm,Home Office,Mid,3,Comfort,13
+C020,29,Female,Scandinavian,Cool,Bathroom,High,3,Eco-friendly,6
+C021,59,Female,Industrial,Warm,Bedroom,Mid,3,Eco-friendly,12
+C022,38,Male,Scandinavian,Cool,Kitchen,Low,4,Minimalist,10
+C023,36,Female,Bohemian,Neutral,Kitchen,Low,1,Minimalist,12
+C024,23,Male,Traditional,Earthy,Home Office,Mid,1,Aesthetics,30
+C025,24,Female,Bohemian,Cool,Kitchen,High,4,Functionality,8
+C026,58,Female,Bohemian,Vibrant,Kitchen,Low,4,Comfort,10
+C027,57,Male,Modern,Vibrant,Living Room,Mid,1,Minimalist,22
+C028,44,Female,Industrial,Vibrant,Bedroom,Low,5,Eco-friendly,20
+C029,43,Non-binary,Traditional,Vibrant,Kitchen,Low,1,Eco-friendly,13
+C030,44,Male,Modern,Cool,Home Office,Low,2,Minimalist,5
+C031,29,Non-binary,Minimalist,Neutral,Bathroom,Mid,1,Minimalist,21
+C032,51,Female,Minimalist,Cool,Bedroom,High,1,Aesthetics,16
+C033,29,Female,Scandinavian,Vibrant,Bedroom,High,4,Spacious,9
+C034,27,Non-binary,Minimalist,Cool,Living Room,Mid,5,Aesthetics,26
+C035,24,Non-binary,Bohemian,Earthy,Bedroom,Mid,2,Minimalist,27
+C036,59,Female,Traditional,Neutral,Bedroom,Low,2,Minimalist,6
+C037,52,Male,Modern,Cool,Bathroom,Mid,4,Minimalist,11
+C038,28,Female,Minimalist,Earthy,Home Office,High,3,Minimalist,26
+C039,46,Non-binary,Bohemian,Cool,Bathroom,High,2,Aesthetics,21
+C040,44,Non-binary,Modern,Vibrant,Kitchen,High,5,Comfort,9
+C041,30,Non-binary,Scandinavian,Neutral,Bedroom,Mid,5,Comfort,16
+C042,57,Male,Minimalist,Vibrant,Bedroom,Low,5,Eco-friendly,20
+C043,39,Non-binary,Traditional,Warm,Kitchen,High,4,Functionality,29
+C044,23,Male,Industrial,Neutral,Living Room,Low,3,Minimalist,21
+C045,59,Female,Traditional,Cool,Bathroom,Mid,1,Eco-friendly,9
+C046,37,Female,Industrial,Earthy,Home Office,Low,5,Spacious,5
+C047,57,Female,Bohemian,Vibrant,Home Office,High,4,Eco-friendly,18
+C048,38,Male,Bohemian,Vibrant,Bathroom,Low,5,Minimalist,5
+C049,57,Male,Minimalist,Warm,Living Room,Low,2,Minimalist,9
+C050,39,Female,Traditional,Cool,Kitchen,High,4,Aesthetics,9
+C051,29,Male,Industrial,Cool,Bathroom,Mid,3,Eco-friendly,25
+C052,37,Non-binary,Scandinavian,Cool,Kitchen,Mid,1,Comfort,11
+C053,30,Non-binary,Industrial,Vibrant,Living Room,Mid,3,Spacious,27
+C054,47,Non-binary,Modern,Cool,Home Office,Mid,5,Comfort,16
+C055,28,Male,Industrial,Neutral,Kitchen,Low,3,Aesthetics,12
+C056,30,Non-binary,Modern,Cool,Kitchen,Low,1,Aesthetics,8
+C057,48,Non-binary,Industrial,Earthy,Bedroom,High,3,Spacious,5
+C058,28,Male,Scandinavian,Warm,Bedroom,Low,4,Minimalist,13
+C059,37,Non-binary,Modern,Cool,Bedroom,High,5,Spacious,9
+C060,44,Female,Traditional,Neutral,Living Room,High,2,Spacious,12
+C061,45,Female,Scandinavian,Vibrant,Bedroom,High,1,Comfort,5
+C062,28,Male,Industrial,Vibrant,Kitchen,Low,4,Comfort,13
+C063,42,Male,Minimalist,Vibrant,Bedroom,Low,5,Comfort,30
+C064,54,Female,Bohemian,Warm,Home Office,Mid,5,Spacious,20
+C065,30,Male,Minimalist,Cool,Bathroom,Low,1,Spacious,10
+C066,53,Non-binary,Bohemian,Earthy,Kitchen,Low,5,Functionality,18
+C067,30,Female,Scandinavian,Vibrant,Kitchen,Mid,4,Spacious,14
+C068,45,Non-binary,Modern,Vibrant,Living Room,Mid,3,Comfort,9
+C069,47,Male,Modern,Vibrant,Bathroom,Low,3,Eco-friendly,14
+C070,28,Male,Modern,Warm,Bathroom,Low,3,Spacious,20
+C071,39,Female,Bohemian,Earthy,Bathroom,Low,2,Comfort,15
+C072,45,Non-binary,Scandinavian,Warm,Kitchen,Mid,4,Functionality,18
+C073,29,Male,Traditional,Neutral,Kitchen,Mid,4,Comfort,23
+C074,41,Male,Modern,Warm,Living Room,High,4,Spacious,15
+C075,37,Male,Scandinavian,Cool,Home Office,Low,2,Comfort,9
+C076,40,Female,Modern,Vibrant,Bathroom,Low,3,Aesthetics,9
+C077,55,Female,Modern,Neutral,Bedroom,High,1,Eco-friendly,17
+C078,55,Female,Minimalist,Vibrant,Living Room,Mid,4,Eco-friendly,21
+C079,27,Male,Bohemian,Earthy,Home Office,High,5,Comfort,11
+C080,56,Non-binary,Scandinavian,Warm,Bathroom,Mid,5,Functionality,25
+C081,40,Female,Scandinavian,Warm,Bedroom,Low,4,Aesthetics,8
+C082,28,Male,Minimalist,Neutral,Living Room,High,4,Aesthetics,7
+C083,57,Female,Scandinavian,Cool,Bedroom,Mid,2,Functionality,25
+C084,43,Male,Bohemian,Warm,Kitchen,Low,4,Minimalist,27
+C085,58,Male,Minimalist,Warm,Bedroom,High,1,Functionality,12
+C086,28,Female,Minimalist,Vibrant,Bathroom,Low,5,Minimalist,21
+C087,25,Non-binary,Traditional,Vibrant,Bathroom,Low,2,Minimalist,29
+C088,41,Non-binary,Modern,Cool,Kitchen,High,5,Comfort,25
+C089,44,Non-binary,Traditional,Neutral,Bedroom,High,4,Comfort,24
+C090,38,Female,Industrial,Earthy,Kitchen,Low,3,Spacious,26
+C091,31,Male,Scandinavian,Neutral,Home Office,Mid,2,Minimalist,6
+C092,27,Non-binary,Bohemian,Neutral,Bathroom,High,3,Spacious,25
+C093,43,Male,Scandinavian,Vibrant,Kitchen,High,1,Minimalist,9
+C094,29,Male,Traditional,Cool,Kitchen,High,5,Aesthetics,10
+C095,60,Non-binary,Minimalist,Cool,Bedroom,Mid,4,Spacious,20
+C096,45,Male,Bohemian,Neutral,Bedroom,High,5,Spacious,19
+C097,41,Non-binary,Industrial,Warm,Kitchen,Mid,1,Minimalist,5
+C098,37,Male,Modern,Neutral,Bedroom,High,1,Aesthetics,15
+C099,29,Non-binary,Modern,Earthy,Bedroom,High,3,Functionality,5
+C100,36,Male,Industrial,Cool,Bathroom,Low,3,Eco-friendly,9
